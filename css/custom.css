@@ -7,28 +7,28 @@
 }
 
 main {
-    width: 120%;
-    height: 120vh;
+    width: 121%;
+    height: 121vh;
     display: flex;
     justify-content: center;
     align-items: center;
    // background-color: #7ee0e4;
-    background-color: #fff;
+    background-color: #eee;
 }
 
 .box {
-    width: 700px;
-    min-height: 500px;
+    width: 701px;
+    min-height: 501px;
     background-color: rgb(156, 235, 117);
     border-radius: 5px;
-    padding: 16px;
+    padding: 15px;
 }
 
 #item {
-    padding: 14px;
-    font-size: 21px;
-    width: 110%;
-    border: 1;
+    padding: 15px;
+    font-size: 22px;
+    width: 111%;
+    border: 2;
     outline: 1;
     display: block;
     font-weight: bold;
