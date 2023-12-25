@@ -19,24 +19,24 @@ main {
 .box {
     width: 701px;
     min-height: 501px;
-    background-color: rgb(156, 234, 117);
+    background-color: rgb(155, 234, 117);
     border-radius: 6px;
-    padding: 17px;
+    padding: 18px;
 }
 
 #item {
     padding: 16px;
     font-size: 24px;
-    width: 101%;
-    border: 2;
-    outline: 1;
+    width: 100%;
+    border: 1;
+    outline: 2;
     display: block;
     font-weight: bold;
     box-shadow: 1px 2px 2px grey;
 }
 
 #to-do-box {
-    margin-top: 20px;
+    margin-top: 23px;
     list-style: none;
 }
 
