@@ -12,13 +12,13 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #7ee0e4;
+    background-color: #578688;
 }
 
 .box {
     width: 700px;
     min-height: 500px;
-    background-color: rgb(154, 235, 117);
+    background-color: rgb(110, 183, 162);
     border-radius: 5px;
     padding: 15px;
 }
