@@ -3,8 +3,6 @@ This Project Showcases a simple todo app list , which contains only html ,css an
 
 #### &nbsp; Visit site :arrow_upper_right: : &nbsp; [Click ME !!!](https://kallangouda.github.io/Todo-list/)
 
-This is a simple Todo-List Web Application project built using HTML, CSS, and JavaScript.
-
 ## Features
 
 - **Add Todos:** Easily add new tasks to your list.
