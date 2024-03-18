@@ -7,8 +7,8 @@
 }
 
 main {
-    width: 100%;
-    height: 100.vh;
+    width: 101%;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -16,16 +16,16 @@ main {
 }
 
 .box {
-    width: 700px;
-    min-height: 500px;
+    width: 701px;
+    min-height: 501px;
     background-color: rgb(110, 183, 162);
-    border-radius: 6px;
-    padding: 15px;
+    border-radius: 7px;
+    padding: 16px;
 }
 
 #item {
-    padding: 15px;
-    font-size: 20px;
+    padding: 14px;
+    font-size: 19px;
     width: 100%;
     border: 0;
     outline: 0;
